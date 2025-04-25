@@ -29,7 +29,7 @@ function App() {
             <Link to="/tailwind" className="text-blue-600 hover:underline">Tailwind Card</Link>
             <div style={sizedBox2}>
             </div>
-            <Link to="/styled" className="text-blue-600 hover:underline">Styled Components Card</Link>
+            <Link to="/styled" className="text-blue-600 hover:underline">Styled Card</Link>
           </nav><div style={sizedBox}>
             </div></>
         )}

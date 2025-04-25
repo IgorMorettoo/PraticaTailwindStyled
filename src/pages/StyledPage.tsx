@@ -55,7 +55,7 @@ function StyledPage() {
 
   return (
     <Container>
-      <h2>Styled-Components Card</h2>
+      <h2>Styled Card</h2>
       <Input
         type="text"
         placeholder="Digite o usuário"
